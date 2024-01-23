@@ -1,6 +1,6 @@
 # Alessio Tosolini's website!
 
-This website is just meant to be a place to store my projects and give a platform to my poster presetnations.
+This website is just meant to be a place to store my projects and give a platform to my poster presetnations. I intend on making a more sophisticated website in the future, but for now I just want my posters to be accessible.
 
 ## Posters
 - ENTER HERE
